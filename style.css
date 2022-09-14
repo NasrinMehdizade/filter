@@ -1,0 +1,14 @@
+.header{
+    width: 50%;
+    background: url(./1.jpg.png) fixed 40% 80% /cover;
+    padding: 50px;
+    box-sizing: border-box;
+    height: 400px;
+    color: #fff;
+}
+.header:hover{
+    /* filter: blur(5px)brightness(90%) contrast(95%); */
+}
+.header{
+    filter: drop-shadow(10px 10px 15px rgb(0, 0, 0 , .5));
+}
